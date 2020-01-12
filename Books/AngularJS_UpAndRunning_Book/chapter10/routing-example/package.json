@@ -17,6 +17,6 @@
     "compression": "1.0.2",
     "passport-local": "1.0.0",
     "cookie-parser": "1.0.1",
-    "morgan": "1.0.1"
+    "morgan": "1.9.1"
   }
 }
