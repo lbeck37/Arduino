@@ -10,7 +10,7 @@
   "dependencies": {
     "express" : "4.1.1",
     "body-parser" : "1.0.2",
-    "serve-static" : "1.1.0",
+    "serve-static" : "1.14.1",
     "method-override" : "1.0.0",
     "express-session" : "1.0.4",
     "passport": "0.2.0",
